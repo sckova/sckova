@@ -1,4 +1,4 @@
-## Hello! I am Kova.
+## Hello! I am Sean Kovacs (kova).
 I live in Georgia and I enjoy working on niche side projects that I will often push up to here. You probably won't find anything useful to you yourself :)
 
 ![Kova's GitHub stats](https://github-readme-stats.vercel.app/api?username=sckova&show_icons=true&theme=transparent)
